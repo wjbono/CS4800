@@ -44,7 +44,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -5212,14 +5212,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7430354493446990, guid: 152201be5165b4fb7ac581b3c5307905, type: 3}
+      propertyPath: m_Name
+      value: Ball
+      objectReference: {fileID: 0}
     - target: {fileID: 1261786665094209684, guid: 152201be5165b4fb7ac581b3c5307905,
         type: 3}
       propertyPath: m_Mode
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7430354493446990, guid: 152201be5165b4fb7ac581b3c5307905, type: 3}
-      propertyPath: m_Name
-      value: Ball
       objectReference: {fileID: 0}
     - target: {fileID: 7681990566908828764, guid: 152201be5165b4fb7ac581b3c5307905,
         type: 3}
