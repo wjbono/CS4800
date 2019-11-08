@@ -9,6 +9,7 @@ TagManager:
   - CameraFCPSlider
   - CameraNCPSlider
   - CameraUpVectorSlider
+  - ReflectionRealtimeToggle
   layers:
   - Default
   - TransparentFX

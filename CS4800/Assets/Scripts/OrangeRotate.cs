@@ -13,6 +13,6 @@ public class OrangeRotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        gameObject.transform.RotateAround(Vector3.zero, Vector3.up, -30.0f * Time.deltaTime);
+        gameObject.transform.RotateAround(Vector3.zero, Vector3.up, -15.0f * Time.deltaTime);
     }
 }
